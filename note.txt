@@ -1,0 +1,24 @@
+ReactJS is a Javascript lib
+ReactJS 16.8 is the most important version:
+changes => Hooks() is a built in function and it manages states and use effects
+and it replaced 4 functions ClassBasedComponent
+Functional Component
+Virtual DOM is like a Live Server
+
+use state manages states  
+npm = Node Package Manager 
+
+const {el,e} = useState(value)
+
+const e = [
+    {
+        el :"value",
+        el2:"value 
+    }
+    {
+        el :"value",
+        el2:"value"
+    }
+]
+e.map => el 
+Rafce 
